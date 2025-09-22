@@ -14,8 +14,8 @@ The program uses a **Scanner** to take input from the user and supports repeated
 
 ##  Tools Used
 - Java (JDK)  
-- VS Code (or IntelliJ CE)  
-- Terminal / Command Prompt  
+- VS Code  
+- Terminal  
 
 ---
 
